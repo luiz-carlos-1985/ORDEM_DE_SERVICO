@@ -1,6 +1,6 @@
 package br.com.luizcarlos.ordemdeservico.telas;
 
-import br.com.luizcarlos.ordemdeservico.dao.ModuloConexao;
+import br.com.luizcarlos.ordemdeservico.dal.ModuloConexao;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
