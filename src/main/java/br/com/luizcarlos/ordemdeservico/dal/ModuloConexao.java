@@ -1,7 +1,6 @@
-package br.com.luizcarlos.ordemdeservico.dal;
+package br.com.luizcarlos.ordemdeservico.dao;
 
 import java.sql.*;
-
 
 public class ModuloConexao {
 
