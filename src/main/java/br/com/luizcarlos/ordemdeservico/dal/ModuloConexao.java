@@ -1,4 +1,4 @@
-package br.com.luizcarlos.ordemdeservico.dao;
+package br.com.luizcarlos.ordemdeservico.dal;
 
 import java.sql.*;
 
