@@ -6,7 +6,6 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import javax.swing.JOptionPane;
 
-//public class TelaUsuario extends javax.swing.JFrame {
 /**
  *
  * @author luizc
